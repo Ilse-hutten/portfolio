@@ -12,9 +12,9 @@ I recently completed the Le Wagon bootcamp and am transitioning into data-driven
 
 ## Projects
 
-### Index Replication Strategy  
+### Index Arbitrage Trading Strategy  
 Developed a PCA-based index arbitrage trading strategy to optimize financial performance and identify market opportunities.  
-[View the GitHub Repository](https://github.com/Ilse-hutten/index-arbitrage)   
+[View the GitHub Repository](https://github.com/Ilse-hutten/index-arbitrage)
 
 ## Contact  
 - **LinkedIn:** [Ilse Hutten](https://linkedin.com/in/ilsehutten)  
