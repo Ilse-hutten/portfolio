@@ -15,6 +15,8 @@ Recently graduated from the Le Wagon Data Science & AI Bootcamp, I’m passionat
   - Techniques: Supervised & Unsupervised Learning, PCA, NLP, Deep Learning, Time Series Forecasting, Statistical Analysis, Financial Modelling  
   - Environments: Jupyter, Git, Google Colab, Streamlit, VS Code
 
+---
+
 ## Projects
 
 ### 🔗 [Index Arbitrage Trading Strategy](https://github.com/Ilse-hutten/index-arbitrage)
@@ -24,7 +26,7 @@ Recently graduated from the Le Wagon Data Science & AI Bootcamp, I’m passionat
 - Designed a mean reversion strategy using z-score thresholds on spread deviations.
 - Built an interactive Streamlit app for dynamic backtesting and visualization.
 
----
+
 
 ### 🔗 [Twitter Sentiment Trading Strategy](https://github.com/Ilse-hutten/tweet-stock-prediction)
 **Description:** Scraped and analyzed tweet sentiments for Amazon and Netflix, using this data to design a **sentiment-driven** stock trading strategy.
