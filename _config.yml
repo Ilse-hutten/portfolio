@@ -1,3 +1,6 @@
-theme: minima
-title: Ilse Hutten - Data Science Portfolio
-description: Portfolio of machine learning and data science projects. Background in finance, trained at Le Wagon.
+title: "My Portfolio"
+author: "Ilse"
+theme: minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
